@@ -9,3 +9,7 @@ sql-data-analytics-project/
 └── 03_scripts/                      the queries, in the order of the videos
     └── 00_init_database.sql         builds the database from the CSV files
 ```
+Get the database :
+
+   ● Restore 01_datasets/DataWarehouseAnalytics.csv in SSMS. It needs SQL Server 2022 or newer.
+** What you build**
