@@ -1,4 +1,4 @@
-**SQL Data Analytics Project**
+##**SQL Data Analytics Project**
 
 sql-data-analytics-project/
 ├── 00_setup/                        the setup guide, and the one-click Docker start for Mac
