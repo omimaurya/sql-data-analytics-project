@@ -1,4 +1,4 @@
-**SQL Data Analytics Project**
+# SQL Data Analytics Project
 
 ```
 sql-data-analytics-project/
@@ -13,6 +13,6 @@ Get the database :
 
    ● Restore 01_datasets/DataWarehouseAnalytics.csv in SSMS. It needs SQL Server 2022 or newer.
    
-**What you build**
+# What you build
 
 <img width="3204" height="1356" alt="IMG_20261122_161928" src="https://github.com/user-attachments/assets/fa7de9b4-1b9b-451a-a675-20502bcd9665" />
